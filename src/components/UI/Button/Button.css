@@ -14,6 +14,13 @@
     outline: none;
 }
 
+/* .primary:hover {
+    background: #0866da;
+}
+.success:hover {
+    background: rgba(161, 240, 69, .8);
+} */
+
 .Button:active {
     box-shadow: inset 2px 2px 1px rgba(0, 0, 0, .3);
 }
